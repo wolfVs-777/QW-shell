@@ -1,4 +1,3 @@
-```markdown
 # 🐧 QW Linux Shell
 ### Lightweight Linux environment for Termux - no root required!
 
@@ -29,7 +28,6 @@ curl -sL https://raw.githubusercontent.com/wolfVs-777/QW-shell/main/install.sh |
 
 Or step by step:
 
-```bash
 # 1. Install Termux from F-Droid or Play Store
 # 2. Run in Termux:
 pkg install curl
@@ -39,7 +37,6 @@ bash install.sh
 
 📦 Usage Examples
 
-```bash
 # Enter QW Linux
 qw
 
