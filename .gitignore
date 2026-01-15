@@ -1,0 +1,15 @@
+# Ignore compiled files
+*.o
+*.out
+qw_kernel
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.temp
+
+# Don't track the actual compiled kernel in repo
+qw-filesystem/qw_kernel
