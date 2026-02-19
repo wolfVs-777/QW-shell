@@ -13,6 +13,7 @@
 | **Experience** | Familiar Linux navigation | Android-style paths |
 | **Setup** | One command installation | Manual configuration needed |
 | **Size** | ~20KB kernel + your files | Depends on packages |
+```
 
 ## Quick Install
 
@@ -236,5 +237,3 @@ That's it! You now have a full Linux environment on your Android device.
 
 Made for the Termux community by Linux enthusiasts
 Star the repo if you find it useful!
-
-```
